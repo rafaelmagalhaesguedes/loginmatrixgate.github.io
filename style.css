@@ -17,13 +17,18 @@ main {
     font-size: 1.9em;
 }
 
+.icon {
+  width: 30px;
+  padding-left: 5px;
+}
+
 section {
     width: 30%;
     height: 300px;
     margin: 0 auto;
     padding: 30px 0 30px 0;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 7px;
     background-image: linear-gradient(to right, rgb(244, 244, 244), rgb(214, 255, 214));
 }
 
